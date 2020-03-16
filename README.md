@@ -1,3 +1,13 @@
+# Conceitos do React + Hooks
+
+Este projeto fala um pouco sobre os principais conceitos e como lidar com a performance no React.
+
+Link da apresentação usada com este projeto:
+
+http://tiny.cc/dwielz
+
+## create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
